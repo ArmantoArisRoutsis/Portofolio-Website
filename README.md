@@ -10,6 +10,7 @@
 - ###### CSS
 - ###### Javascript
 - ###### React.js
+- ###### React Bootstrap
 
 ## Technical Information
 
