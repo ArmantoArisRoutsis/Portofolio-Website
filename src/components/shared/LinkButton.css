@@ -1,0 +1,26 @@
+.link-button,
+.link-button:hover {
+    text-decoration: none;
+    background-color: none;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    transition: padding 0.3s, font-size 0.3s, color 0.3s, background-color 0.3s;
+    border: 1px solid white;
+    margin: 10px;
+}
+
+.link-button:hover {
+    background-color: white;
+    color: black;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .link-button ,.link-button:hover {
+        display: block;
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+}
