@@ -4,7 +4,7 @@ import React from 'react'
 function Navigation() {
     return (
         <>
-    <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
+    <Navbar collapseOnSelect expand="lg" bg="light" variant="light" style={{position:"fixed", width:"100%","z-index":"2"}}>
       <Navbar.Brand href="#home">V.C.</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
