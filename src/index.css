@@ -76,6 +76,12 @@ body {
   .section-title {
     font-size: 2rem;
   }
+  .box-iam, .word{
+    font-size: 1.7rem;
+  }
+  .word{
+    margin-left:-23px;
+  }
   
 }
 
