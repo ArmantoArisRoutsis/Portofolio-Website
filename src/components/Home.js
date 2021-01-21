@@ -15,7 +15,7 @@ const Home = () => {
             <div data-aos="zoom-out" data-aos-duration="2000"  className="box">
             <h3 className="box-iam">and I'm a</h3>
             <h3><div className="word">
-                    <span>Msc of&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>Economics</span>
+                    <span>Msc Economics<br/>Graduate</span>
                     <span>Data Analyst</span>
                     <span>Programmer</span>
                     <span>Language&nbsp;<br/>Enthusiast</span>
